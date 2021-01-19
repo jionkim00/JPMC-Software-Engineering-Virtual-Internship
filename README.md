@@ -4,7 +4,7 @@ As a financial institution, JPMorgan Chase and its teams utilize software all th
 
 The purpose of this project is to develop a web application to represent data points corresponding to stock prices in order to assist a trader in determining whether a stock should be traded.
 
-The internship project is split into three modules:
+## The internship project is split into three modules:
 1. Interface with a stock price data feed
     - Process the data feed of stock A and stock B’s price to enable analysis for when trading the stock should occur.
     - Tools used: Python3
@@ -14,3 +14,6 @@ The internship project is split into three modules:
 3. Display data visually for traders
     - Use Perspective to create the chart for the trader's dashboard.
     - Tools used: React, Typescript
+
+## Conclusion:
+Please read the README.markdown files in each module Task folder for details.
