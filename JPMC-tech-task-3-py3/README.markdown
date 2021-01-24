@@ -15,3 +15,5 @@ You will use perspective to generate a live graph that displays the data feed in
 * Changed DataManipulator.ts and its Row interface to process the new schema with its new properties.
 * Created custom bounds in which an alert would be set.
 * Outcome:The numbers from the python script now render properly in the live perspective graph. This means the ratio between the two stock prices is tracked and displayed. The upper and lower bounds are displayed. Alerts are shown whenever these bounds are crossed by the ratio.
+
+![Result](result_task3.png)
