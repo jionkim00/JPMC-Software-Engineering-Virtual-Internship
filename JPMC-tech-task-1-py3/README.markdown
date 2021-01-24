@@ -15,4 +15,4 @@ We want to process the data feed of stock A and stock B’s price to enable us t
 * implemented unit tests within client_test.py to check for discrepancies / bugs
 
 ![Result](result_task1.png)
-![Result](result_task1 cont..png)
+![Result](result_task1_cont.png)
