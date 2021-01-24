@@ -13,3 +13,5 @@ Utilize the Perspective tool and make changes in the source typescripts in order
 * Changed App.tsx to implement the changes made in Graph.tsx (tweaked interface IState to have the boolean property showGraph)
 * Outcome: The graph displayed in the client-side web application is now a continuously updating line graph whose y axis is the stock’s top_ask_price and the x-axis is the timestamp of the stock. The continuous updates to the graph is now the result of continuous requests and responses to and from the server for the stock data.
 * Outcome: Able to aggregate duplicated data retrieved from the server.
+
+![Result](result_task2.png)
