@@ -13,3 +13,6 @@ We want to process the data feed of stock A and stock B’s price to enable us t
 * implemented getRatio function to return ratio of stock A's and stock B's prices
 * made changes in main to output updated info
 * implemented unit tests within client_test.py to check for discrepancies / bugs
+
+![Result](result_task1.png)
+![Result](result_task1 cont..png)
